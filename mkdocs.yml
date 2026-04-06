@@ -12,7 +12,7 @@ theme:
       - navigation.footer
   palette:
     # Dark Mode
-    - scheme: slate
+    - scheme: healthy
       toggle:
         icon: material/weather-sunny
         name: Dark mode
